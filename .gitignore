@@ -58,3 +58,9 @@ buck-out/
 
 # CocoaPods
 /ios/Pods/
+
+
+# Fastlane
+*android/fastlane/config/*
+
+!.gitkeep
