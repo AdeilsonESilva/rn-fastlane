@@ -1,4 +1,4 @@
-package com.test1;
+package br.com.adeilson.test1;
 
 import com.facebook.react.ReactActivity;
 
